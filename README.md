@@ -2,8 +2,8 @@
 I'm a Computer Science Engineering student based in Italy. I have a profound interest in Full Stack Development, Machine and Deep Learning, and Cyber Security. 
 
 ### About me 🤔
-I am i particular interest in the world of software development and artificial intelligence.
-I have recently started to independently study the development on the Unity game engine, and above all the development of multi-platform mobile applications through the Flutter framework. 
+I am particular interest in the world of software development and artificial intelligence.
+I have recently started to independently study the development of the Unity game engine, and above all the development of multi-platform mobile applications through the Flutter framework.
 
 ### Skills⚡
 
