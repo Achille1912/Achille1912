@@ -1,14 +1,10 @@
-## Hi there 👋
-I'm a Computer Science Engineering student based in Italy. I have a profound interest in Full Stack Development, Machine and Deep Learning, and Cyber Security. 
-
-### About me 🤔
-I am particular interest in the world of software development and artificial intelligence.
-I have recently started to independently study the development of the Unity game engine, and above all the development of multi-platform mobile applications through the Flutter framework.
+## About me
+Achille Cannavale is a Computer Engineering student at the University of Cassino, passionate about technology and computer science. During his academic path, he has acquired knowledge in various areas, including programming, project management, and data analysis. He has also had the opportunity to work on several group projects, demonstrating experience in teamwork and a strong problem-solving ability.
 
 ### Skills⚡
 
    - C++
-   - C#
+   - Python
    - OOP
    - Flutter
    - Html5 & CSS
