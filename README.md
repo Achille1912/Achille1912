@@ -23,9 +23,11 @@ Achille Cannavale is a Computer Engineering student at the University of Cassino
 In recent decades, the development of video games has evolved at a surprising pace, leading to the creation of increasingly immersive and engaging gaming experiences, not only in 3D games but also in 2D games. However, 2D games require a solid technological foundation to provide a good gaming experience, and one of the most critical aspects is the management of collisions between various objects within the game.
 
 Collision detection is a fundamental operation in 2D games as it allows determining whether two or more objects collide and calculating an appropriate response, such as reconstructing the trajectory of the objects or applying a reaction force. Since collision management can become very complex in the presence of irregular objects or objects with complex shapes, it is important to have efficient and accurate collision detection algorithms at your disposal.
-<center>
+<div align="center">
 <a href= "https://github.com/achille1912/Thesis" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=achille1912&repo=Thesis&bg_color=000000"> </a>
-</center>
+</div>
+
+
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td>
