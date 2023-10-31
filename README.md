@@ -36,13 +36,13 @@ Collision detection is a fundamental operation in 2D games as it allows determin
 </tr>
 </table>
 
-<h3 align="center">Where you can find me</h3>
-<center>
+<h2 align="center">Where you can find me</h2>
+<div align="center">
 <a href="https://github.com/Achille1912" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/achille-cannavale-0884b7198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://achille1912.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/14033055/achille" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-ffffff?style=for-the-badge&logo=StackOverflow&logoColor=red"/></a>
-</center>
+</div>
 
 
 
