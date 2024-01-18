@@ -1,7 +1,6 @@
 ## About me
 Achille Cannavale is a Master Computer Engineering student at the University of Cassino, passionate about technology and computer science. During his academic path, he has acquired knowledge in various areas, including programming, project management, and data analysis. He has also had the opportunity to work on several group projects, demonstrating experience in teamwork and a strong problem-solving ability.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achille1912" alt="achille1912" /></a> </p>
 
 
 
