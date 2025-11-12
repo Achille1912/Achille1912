@@ -8,9 +8,27 @@
 
 
 <h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </p>
+<p align="center">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </p>
+
+---
+<h2 align="center"> 🧩 Master's Thesis</h2>
+The thesis addresses the problem of automatic breast segmentation in magnetic resonance images (3D MRI), with particular focus on breast tissue, fibroglandular tissue (FGT), and blood vessels.
+Using convolutional neural networks (U-Net, Attention U-Net, SliceUNet) and the MONAI (Medical Open Network for AI) framework, a comprehensive experimental pipeline was developed, including preprocessing, hierarchical configuration via YAML files, structured logging, and innovative validation strategies based on inverse transformations.
+
+The final model achieved a Dice score of 0.9161, demonstrating remarkable accuracy and clinical relevance.
+<div align="center">
+<a href= "https://github.com/achille1912/Master-Thesis" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=achille1912&repo=Master-Thesis&bg_color=000000"> </a>
+</div>
 
 
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<img src="https://github.com/Achille1912/Master-Thesis/blob/main/Thesis/doc/images/2025-08-08-18-52-24.png?raw=true">
+</td>
+
+</tr>
+</table>
 
 
 ---
@@ -33,6 +51,12 @@ Collision detection is a fundamental operation in 2D games as it allows determin
 </td>
 </tr>
 </table>
+
+---
+
+<h2 align="center">🧠 Lifelong Learning</h2>
+
+I’m a lifelong learner driven by curiosity. With humility, I aim to grow into a **modern polymath** — connecting ideas across disciplines and learning a bit of everything along the way.  I’m building a **second brain** to organize and connect what I learn, turning curiosity into understanding and understanding into creation.
 
 <h2 align="center">💻 Where you can find me</h2>
 <div align="center">
